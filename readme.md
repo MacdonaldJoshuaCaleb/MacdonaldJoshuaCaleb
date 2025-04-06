@@ -11,6 +11,18 @@ Proficient in Python, R, \& MATLAB; experienced in data imputation, clustering, 
 Present complex modeling outcomes through technical reports and seminars to interdisciplinary teams and public health agencies. Work collaboratively with experts across public health, oceanography, and cultural studies to address multifaceted challenges.
 
 # Recent projects
-
+## Influenza Scenario Modeling 
+Led Johns Hopkins contributions to the influenza scenario modelinghub.  Implmeneted and calibrated influenza models for all 50 US states and wahsingtion D.C. using FlepiMoP and hierarchical Bayesian inference.  
+## Cultral Evolution in Austronesia 
+Employed a Bayesian PCA framework with sequential hypothesis testing to objectively determine significant dimensions in high-dimensional cultural datasets, facilitating reconstruction of cultural transmission networks among Austronesian-speaking peoples.
+(See: Macdonald et al., 2024b, 2024c, 2024e)
+## FMDV Transmission Dynamics
+Formulated within-host models linking viral replication and immune responses to predict FMDV transmission dynamics in African buffalo. Simulation-based identifiability techniques ensured robust parameter estimation. 
+(See: Macdonald et al., 2024a, 2024d.)
+## Aquatic Ecosystem Analysis
+Extended classical Nutrient-Phytoplankton-Zooplankton-Detritus (NPZD) models by incorporating non-trophic interactions, applying bifurcation analysis to identify critical thresholds for harmful algal blooms. 
+(See: Macdonald & Gulbudak, 2023.)
+## COVID-19 Outbreak Modeling
+Developed dynamic epidemic models integrating testing-dependent ascertainment rates to estimate key parameters such as lockdown initiation and relaxation rates. These models revealed an inverse relationship between outbreak size and effective quarantine rate. (See: Browne, Gulbudak, & Macdonald, 2022; Macdonald, Browne, & Gulbudak, 2021.)
 
 
