@@ -18,14 +18,14 @@ Employed a Bayesian PCA framework with sequential hypothesis testing to objectiv
 (See: Macdonald et al., [2024c](https://doi.org/10.1086/730703), [2024e](https://doi.org/10.48550/arXiv.2409.12129))
 ## FMDV Transmission Dynamics
 Formulated within-host models linking viral replication and immune responses to predict FMDV transmission dynamics in African buffalo. Simulation-based identifiability techniques ensured robust parameter estimation. 
-(See: Macdonald et al., 2024a, 2024d.)
+(See: Macdonald et al., [2024d](https://doi.org/10.1086/730703))
 ## Aquatic Ecosystem Analysis
 Extended classical Nutrient-Phytoplankton-Zooplankton-Detritus (NPZD) models by incorporating non-trophic interactions, applying bifurcation analysis to identify critical thresholds for harmful algal blooms. 
-(See: Macdonald & Gulbudak, 2023.)
+(See: Macdonald & Gulbudak, [2023](https://doi.org/10.1007/s00285-023-01969-7))
 ## COVID-19 Outbreak Modeling
-Developed dynamic epidemic models integrating testing-dependent ascertainment rates to estimate key parameters such as lockdown initiation and relaxation rates. These models revealed an inverse relationship between outbreak size and effective quarantine rate. (See: Browne, Gulbudak, & Macdonald, 2022; Macdonald, Browne, & Gulbudak, 2021.)
+Developed dynamic epidemic models integrating testing-dependent ascertainment rates to estimate key parameters such as lockdown initiation and relaxation rates. These models revealed an inverse relationship between outbreak size and safety measure adherence turnover rate. (See: Browne, Gulbudak, & Macdonald, [2022](https://doi.org/10.1016/j.jtbi.2021.110919); Macdonald, Browne, & Gulbudak, [2021](https://doi.org/10.1098/rsos.210227).)
 
-# Code Samples
-- Macdonald, J. C., et al. (2024a). Software for Within-host viral growth and immune response rates predict FMDV transmission dynamics for African Buffalo. \textit{Zenodo}. https://zenodo.org/records/10720079
-- Macdonald, J. C., et al. (2024b). Software for Cultural Transmission, Networks, and Clusters among Austronesian-speaking Peoples. \textit{Zenodo}. https://zenodo.org/records/13798914
+# Code Samples (MATLAB & Python)
+- Macdonald, J. C., et al. (2024a). [Software for Within-host viral growth and immune response rates predict FMDV transmission dynamics for African Buffalo](https://zenodo.org/records/10720079). *Zenodo*. 
+- Macdonald, J. C., et al. (2024b). [Software for Cultural Transmission, Networks, and Clusters among Austronesian-speaking Peoples](https://zenodo.org/records/13798914). *Zenodo*. 
 
