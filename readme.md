@@ -15,7 +15,7 @@ Present complex modeling outcomes through technical reports and seminars to inte
 Led Johns Hopkins contributions to the influenza scenario modelinghub.  Implmeneted and calibrated influenza models for all 50 US states and wahsingtion D.C. using FlepiMoP and hierarchical Bayesian inference.  
 ## Cultral Evolution in Austronesia 
 Employed a Bayesian PCA framework with sequential hypothesis testing to objectively determine significant dimensions in high-dimensional cultural datasets, facilitating reconstruction of cultural transmission networks among Austronesian-speaking peoples.
-(See: Macdonald et al., 2024b, 2024c, 2024e)
+(See: Macdonald et al., [2024c](https://doi.org/10.1086/730703), [2024e](https://doi.org/10.48550/arXiv.2409.12129))
 ## FMDV Transmission Dynamics
 Formulated within-host models linking viral replication and immune responses to predict FMDV transmission dynamics in African buffalo. Simulation-based identifiability techniques ensured robust parameter estimation. 
 (See: Macdonald et al., 2024a, 2024d.)
