@@ -25,7 +25,7 @@ Extended classical Nutrient-Phytoplankton-Zooplankton-Detritus (NPZD) models by 
 ## COVID-19 Outbreak Modeling
 Developed dynamic epidemic models integrating testing-dependent ascertainment rates to estimate key parameters such as lockdown initiation and relaxation rates. These models revealed an inverse relationship between outbreak size and safety measure adherence turnover rate. (See: Browne, Gulbudak, & Macdonald, [2022](https://doi.org/10.1016/j.jtbi.2021.110919); Macdonald, Browne, & Gulbudak, [2021](https://doi.org/10.1098/rsos.210227).)
 
-# Code Samples (MATLAB & Python)
+# Programming Samples (MATLAB & Python)
 - Macdonald, J. C., et al. (2024a). [Software for Within-host viral growth and immune response rates predict FMDV transmission dynamics for African Buffalo](https://zenodo.org/records/10720079). *Zenodo*. 
 - Macdonald, J. C., et al. (2024b). [Software for Cultural Transmission, Networks, and Clusters among Austronesian-speaking Peoples](https://zenodo.org/records/13798914). *Zenodo*. 
 
