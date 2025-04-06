@@ -10,7 +10,7 @@ Proficient in Python, R, \& MATLAB; experienced in data imputation, clustering, 
 ## Communication & Collaboration 
 Present complex modeling outcomes through technical reports and seminars to interdisciplinary teams and public health agencies. Work collaboratively with experts across public health, oceanography, and cultural studies to address multifaceted challenges.
 
-# Recent projects
+# Projects
 ## Influenza Scenario Modeling 
 Led Johns Hopkins contributions to the influenza scenario modelinghub.  Implmeneted and calibrated influenza models for all 50 US states and wahsingtion D.C. using FlepiMoP and hierarchical Bayesian inference.  
 ## Cultral Evolution in Austronesia 
@@ -25,4 +25,7 @@ Extended classical Nutrient-Phytoplankton-Zooplankton-Detritus (NPZD) models by 
 ## COVID-19 Outbreak Modeling
 Developed dynamic epidemic models integrating testing-dependent ascertainment rates to estimate key parameters such as lockdown initiation and relaxation rates. These models revealed an inverse relationship between outbreak size and effective quarantine rate. (See: Browne, Gulbudak, & Macdonald, 2022; Macdonald, Browne, & Gulbudak, 2021.)
 
+# Code Samples
+- Macdonald, J. C., et al. (2024a). Software for Within-host viral growth and immune response rates predict FMDV transmission dynamics for African Buffalo. \textit{Zenodo}. https://zenodo.org/records/10720079
+- Macdonald, J. C., et al. (2024b). Software for Cultural Transmission, Networks, and Clusters among Austronesian-speaking Peoples. \textit{Zenodo}. https://zenodo.org/records/13798914
 
