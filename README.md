@@ -29,7 +29,7 @@ Simulation engine for CDC-funded influenza scenario modeling and wildlife diseas
 
 Declarative specification language and compiler for structured dynamical systems. Researchers define models via two pathways — explicit governing equations or transition diagrams — with multi-axis stratification, automatic template expansion, and chain synthesis for staged compartments. Specifications are AST-validated and compiled to safe bytecode closures; structured metadata passes through to downstream solvers like op_engine.
 
-## [trade-study](https://github.com/jcm-sci/trade-study) — multi-objective trade-study orchestration · [![CI](https://github.com/jcm-sci/trade-study/actions/workflows/ci.yml/badge.svg)](https://github.com/jcm-sci/trade-study/actions/workflows/ci.yml) [![Docs](https://img.shields.io/badge/docs-online-blue)](https://jcm-sci.github.io/trade-study/)
+## [trade-study](https://github.com/jcm-sci/trade-study) — multi-objective trade-study orchestration · [![CI](https://github.com/jcm-sci/trade-study/actions/workflows/ci.yml/badge.svg)](https://github.com/jcm-sci/trade-study/actions/workflows/ci.yml) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19599838.svg)](https://doi.org/10.5281/zenodo.19599838) [![Docs](https://img.shields.io/badge/docs-online-blue)](https://jcm-sci.github.io/trade-study/)
 **Status: Released on PyPI**
 
 Define factors, build parameter grids, run hierarchical study phases, and extract Pareto fronts — for any domain where you compare alternatives against competing objectives. Protocol-driven architecture with proper scoring rules, experimental design (full factorial, LHS, Sobol, Halton, Morris screening), Pareto optimization, adaptive NSGA-II search, and Bayesian model stacking.
